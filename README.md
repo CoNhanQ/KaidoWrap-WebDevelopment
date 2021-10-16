@@ -6,6 +6,9 @@ Roles & Responsibilities:
 * Full Stack Developer : Khai Doan
 * Responsible for full web development. (HTML, CSS, Javascript, etc.)
 * Oversee any error and debugging as needed.
+*
+*
+*
 * Web Designer: Co Nhan
 * Responsible for creating prototype, creating layout for the websites.
-* Assist in web development as needed. 
+* Assist in web development as needed.
