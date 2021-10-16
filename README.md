@@ -10,5 +10,5 @@ Roles & Responsibilities:
 *
 *
 * Web Designer: Co Nhan
-* Responsible for creating prototype, creating layout for the websites.
+* Responsible for creating prototype/layout for the websites.
 * Assist in web development as needed.
