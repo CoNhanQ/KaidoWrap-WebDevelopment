@@ -1,10 +1,10 @@
 # KaidoWrap-WebDevelopment
-Folder Repository for KaidoWrap
+Folder Repository for KaidoWrap.
 The following folder contain all the information/files necessary for KaidoWrap web development.
 
 Roles & Responsibilities:
 * Full Stack Developer : Khai Doan
-* Responsible for full web development. (HTML, CSS, Javascript, etc.)
+* Responsible for full web development. (HTML, CSS, Javascript, SQL etc.)
 * Oversee any error and debugging as needed.
 *
 *
